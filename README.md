@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hello, I'm marty8080 👋
 
-<!--
-**marty8080/marty8080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🏢 Full-time Data Architect and Engineer
+🎓 Part-time mature student in AI and Data Science
+🚀 Passionate about leveraging data to drive insights and innovation
 
-Here are some ideas to get you started:
+## What I'm Currently Working On
+- 🏗️ Designing robust data architectures for enterprise-level projects
+- 🧠 Exploring the latest advancements in AI and machine learning
+- 📊 Developing data pipelines and ETL processes
+- 📚 Balancing work and studies to expand my knowledge in the field
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Data Modeling and Architecture
+- ETL and Data Integration
+- SQL and NoSQL Databases
+- Big Data Technologies
+- Cloud Platforms (e.g., AWS, Azure, GCP)
+- Python, R, and other data-centric languages
+- Machine Learning and AI (in progress)
+
+## Connect With Me
+- [LinkedIn]
+- [Twitter]
+
+## Fun Fact
+I recovered a deleted production database and got praise instead of the boot, by omiting the fact it was me who confused it with a test instance
+
+Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions on data architecture, engineering, AI, or data science!
